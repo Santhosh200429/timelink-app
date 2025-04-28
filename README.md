@@ -84,9 +84,6 @@ To run this project locally, follow these simple steps:
 
 **Santhosh**  
 - [Instagram: @sxndy.hub](https://instagram.com/sxndy.hub)  
-- [Email: santhoshofficialdev@gmail.com](mailto:santhoshofficialdev@gmail.com)  
-
----
 
 ## **💎 Credits**
 
